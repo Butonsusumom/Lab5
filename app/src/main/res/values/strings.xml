@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Send message</string>
+    <string name="next_page">Next page</string>
+    <string name="enter_text">Enter text</string>
+    <string name="back">Back</string>
+    <string name="toast">You haven\'t enter any text</string>
+</resources>
