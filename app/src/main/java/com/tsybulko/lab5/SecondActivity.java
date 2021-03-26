@@ -10,6 +10,8 @@ import android.widget.TextView;
 
 public class SecondActivity extends AppCompatActivity implements View.OnClickListener {
 
+    public final static String BACK_MESSAGE = "BACK";
+
     TextView textView;
     Button btn;
 
